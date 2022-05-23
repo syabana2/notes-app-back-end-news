@@ -1,4 +1,3 @@
-const { payload } = require("@hapi/hapi/lib/validation");
 const ClientError = require("../../exceptions/ClientError");
 
 class AuthenticaionsHandler {
